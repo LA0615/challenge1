@@ -20,7 +20,7 @@ Click on each link to read more information. See the screenshot below.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![Challenge 1 Digital Meeting](assets/images/digital-marketing-meeting.jpg)
     ```
 
 ## Credits
